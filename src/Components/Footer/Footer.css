@@ -1,0 +1,17 @@
+.footer {
+  margin-top: auto;
+  background: white;
+  justify-content: center !important;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  padding: 10px;
+}
+
+.footer-inside {
+  display: flex;
+  justify-content: center !important;
+}
+span {
+  text-align: center;
+}

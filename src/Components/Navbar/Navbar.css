@@ -1,0 +1,14 @@
+.active {
+  text-decoration: underline !important;
+  color: black !important;
+}
+.mobile-link {
+  display: flex;
+  text-decoration: none;
+  color: black !important;
+}
+
+.navbar-container {
+  background: linear-gradient(to right, rgb(255, 255, 255), #ffffff);
+  fill: black !important;
+}
